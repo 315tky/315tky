@@ -1,1 +1,44 @@
 #concept-landing
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>concept landing</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script type="text/javascript" src="htpps://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.js"></script>
+
+</head>
+<body>
+<p></p>
+<h1 class="ui block header">
+  <i class="wrench icon"></i>
+  <div class="content">
+    Awesome Tools 
+    <div class="sub header"></div>
+  </div>
+</h1>
+
+<div class="ui two column stackable grid container">
+  <div class="column">
+    <div class="ui segment"><i class="circular huge server icon"></i>Infernal View - Inventory Reporting</div>
+  </div>
+  <div class="column">
+    <div class="ui segment"><i class="huge circular hdd outline icon"></i>All Your Data belong View</div>
+  </div>
+  <div class="column">
+    <div class="ui segment"><i class="circular huge calendar check outline icon"></i>Quick - Event task tracking and workflow</div>
+  </div>
+  <div class="column">
+    <div class="ui segment"><i class="circular huge dashboard icon"></i>Ironboard</div>
+  </div>
+  <div class="column">
+    <div class="ui segment">Content</div>
+  </div>
+  <div class="column">
+    <div class="ui segment">Content</div>
+  </div>
+</div>
+
+</body>
+</html>
